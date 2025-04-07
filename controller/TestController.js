@@ -1,3 +1,3 @@
 exports.sample=(req,res)=>{
-    res.send("Aashika Maharjan")
+    res.send("Aashika Rubin")
 }
